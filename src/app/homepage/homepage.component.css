@@ -1,0 +1,25 @@
+#imgContainer{
+
+    background-image: url('/assets/images/nskbg1.png');
+    
+}
+
+h1{
+    font-size: 100px;
+    font-weight: 900;
+
+    color:rgb(224, 58, 28);
+}
+p{
+    font-size: 25px;
+}
+.btn{
+    font-size: 1rem;
+    size: 2rem;
+}
+.container{
+    background-color: aliceblue;
+}
+.info{
+    color: aqua;
+}
